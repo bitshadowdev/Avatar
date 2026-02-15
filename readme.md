@@ -21,3 +21,7 @@ Es una composición en 3D de tres elementos:
 - Una piramide 
 
 En estilo cyberpunk para mi avatar de redes sociales en general. 
+
+[![Visitar en Cloudflare](https://img.shields.io/badge/Visitar%20en-Cloudflare-orange?style=for-the-badge&logo=cloudflare)](https://avatar.pyramidbuilder1.workers.dev/)
+
+
